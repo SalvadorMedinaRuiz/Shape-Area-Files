@@ -1,0 +1,7 @@
+
+Square
+
+Area	Side Length
+
+36.0	6.0
+53.29	7.3
